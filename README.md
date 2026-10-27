@@ -19,17 +19,16 @@ A web application built using **Python and Django** that retrieves current weath
 
 ### 💻 Run Locally
 
-bash
+```bash
 git clone https://github.com/zombie-132/weather-forecast-app.git
 cd weather-forecast-app
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
-
+```
 
 ### 👨‍💻 Developer
 
 **Ayush Bansal**
 
-[GitHub Profile](https://github.com/zombie-132) 
-[Project Repository](https://github.com/zombie-132/weather-forecast-app)
+[GitHub Profile](https://github.com/zombie-132) · [Project Repository](https://github.com/zombie-132/weather-forecast-app)
